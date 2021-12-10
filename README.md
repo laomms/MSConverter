@@ -8,4 +8,4 @@ office2010-2021
 
 ![image](https://github.com/laomms/MSConverter/blob/main/use.gif)
 
-![image](https://github.com/laomms/MSConverter/blob/main/pics.gif)    
+
